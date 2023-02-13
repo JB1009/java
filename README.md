@@ -103,7 +103,7 @@
 - 관점 지향 프로그래밍(AOP, Aspect-Oriented Programming) : 핵심 비즈니스 로직에 있는 공통 관심사항을 분리하여 각각을 모듈화 하는 것
 ###
 
-### 비동기 처리
+###  Annotation
  - @RequestBody :  클라이언트가 전송하는 JSON 형태의 HTTP Body 내용을 MessageConverter를 통해 Java Object로 변환시켜주는 역할
  - @RequestParam : 1개의 HTTP 요청 파라미터를 받기 위해 사용
  - @ModelAttribute : HTTP Body 내용과 HTTP 파라미터의 값들을 생성자,Getter,Setter를 통해 주입하기 위해 사용
