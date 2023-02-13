@@ -120,7 +120,7 @@
   - CRUD란 Create(생성), Read(읽기), Update(갱신), Delete(삭제)을 일컫는 말
 ###
 
-***
+
 ## SQL
 
 ### JOIN
@@ -131,7 +131,7 @@
  - FROM, ON, JOIN > WHERE, GROUP BY, HAVING > SELECT > DISTINCT > ORDER BY > LIMIT
 ###
 
-***
+
 ## 기타
 
 ### http와 https 차이점
